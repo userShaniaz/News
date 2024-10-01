@@ -1,0 +1,11 @@
+db.sqlite3
+
+migrations
+
+news_venv
+
+news_venv/
+
+venv
+
+/env
